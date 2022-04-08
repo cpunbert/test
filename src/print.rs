@@ -18,5 +18,5 @@ pub fn run(){
     println!("{:?}", (12, true, "Hello "));
 
     //Basic math 
-    println!("10/3 = {}", 10/3)
+    println!("10/3 = {}", 10/3);
 } 
