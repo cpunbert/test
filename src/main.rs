@@ -6,7 +6,10 @@
 //mod arrays;
 //mod vectors;
 //mod conditionals;
-mod loops;
+//mod loops;
+//mod functions;
+mod pointers_ref;
+
 
 fn main() {
     //print::run();   
@@ -17,6 +20,7 @@ fn main() {
     //arrays::jd();
     //vectors::dis();
     //conditionals::keks();
-    loops::kizo();
-    
+    //loops::kizo();
+    //functions::zyd();
+    pointers_ref::zyd();
 }   
